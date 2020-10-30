@@ -1,3 +1,4 @@
+First, Download or Clone the repository.
 1.Download and install composer
 https://getcomposer.org/download/
 2.Download Xamp,start apache and mysql
